@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amolrod/amolrod/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
