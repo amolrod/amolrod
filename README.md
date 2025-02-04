@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ángel, from Madrid</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -30,10 +30,9 @@
   <a href="angelmolinarodríguez15@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="mailto:elcorreoquequieres@correo.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+  <a <a href="mailto:angelmolinarodriguez15@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail"> target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
 </div>
 
 ###
