@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Ángel Molina**  
 ### 💻 Web Application Development Student (DAW) · Madrid, Spain  
 
 <!-- Contact badges -->
