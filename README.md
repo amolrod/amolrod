@@ -85,4 +85,4 @@
 </p>
 
 <!-- Inspirational Closing -->
-<h3 align="center">💪 “Deja de buscar inspiración, conviértete en ella.”</h3>
+<h3 align="center">“Deja de buscar inspiración, conviértete en ella.”</h3>
