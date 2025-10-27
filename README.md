@@ -1,4 +1,4 @@
-<!-- 💫 Profile README for Ángel Molina (Animated Edition) -->
+<!-- 💫 Profile README for Ángel Molina  -->
 <!-- Header Waving Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF6B6B,100:845EC2&text=Ángel%20Molina&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff" />
@@ -66,13 +66,6 @@
 
 ---
 
-### 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amolrod&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌍 Let's Connect
 <p align="center">
   <a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
@@ -85,4 +78,4 @@
 </p>
 
 <!-- Inspirational Closing -->
-<h3 align="center">“Deja de buscar inspiración, conviértete en ella.”</h3>
+<h3 align="center">“Deja de buscar inspiración, conviértete en ella”</h3>
