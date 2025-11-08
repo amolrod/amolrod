@@ -45,7 +45,6 @@ Full-stack engineer who ships calm, readable code. I design APIs with .NET/Node,
 
 #### 🌐 [Portfolio Website](https://github.com/amolrod/amolrod-portfolio)
 > My personal portfolio built with **Next.js 14 + Tailwind + Framer Motion**, focused on performance, accessibility, and clean UX.  
-✨ [Live Demo](https://amolrod.github.io/amolrod-portfolio)
 
 ---
 
@@ -66,7 +65,6 @@ Full-stack engineer who ships calm, readable code. I design APIs with .NET/Node,
 <p align="center">
   <a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/angel-molina-rodriguez-78714b252/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://amolrod.github.io/amolrod-portfolio"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
 </p>
 
 ---
