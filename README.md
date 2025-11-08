@@ -5,11 +5,10 @@
 
 <div align="center">
 
-### 💻 Web Application Developer (DAW) · Madrid, Spain  
+### Web Application Developer (DAW) · Madrid, Spain  
 
 <a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/angel-molina-rodriguez-78714b252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://amolrod.github.io/amolrod-portfolio"><img src="https://img.shields.io/badge/🌐%20Portfolio-845EC2?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/>
 
@@ -19,25 +18,22 @@
 
 ---
 
-### ✨ About Me
-Hi there! 👋  
+### About Me
+Hola! 👋  
 I'm **Ángel Molina**, a second-year **Web Application Development (DAW)** student from Madrid, passionate about creating **digital experiences that feel as good as they look**.
 
-💡 I believe in **clean code**, **continuous learning**, and building things that make people’s lives easier.  
-⚙️ From backend logic to pixel-perfect UI, I enjoy the full process of bringing an idea to life.  
-🎯 Currently focusing on **Angular**, **React**, **.NET**, and **Node.js**.  
-🌱 Constantly exploring new tools, architectures, and design patterns.
+Full-stack engineer who ships calm, readable code. I design APIs with .NET/Node, craft UIs with Angular/React, and wire everything with automation. I care about performance, accessibility, and small, reversible changes. Currently exploring better state management, testing strategies, and build tooling.
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,nodejs,astro,dotnet,firebase,mysql,mongodb,postgres,oracle,mariadb,apache,figma,canva" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects 🚀
 
 #### 🏠 [Balconazo Scalable Marketplace](https://github.com/amolrod/balconazo-scalable-marketplace)
 > **Microservice-based marketplace** with service discovery, authentication, booking, and catalog modules — all orchestrated with Docker & Eureka.  
@@ -53,7 +49,7 @@ I'm **Ángel Molina**, a second-year **Web Application Development (DAW)** stude
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amolrod&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
@@ -66,7 +62,7 @@ I'm **Ángel Molina**, a second-year **Web Application Development (DAW)** stude
 
 ---
 
-### 💬 Let’s Connect!
+### 💬 Let’s Connect! 💬
 <p align="center">
   <a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/angel-molina-rodriguez-78714b252/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
@@ -78,5 +74,3 @@ I'm **Ángel Molina**, a second-year **Web Application Development (DAW)** stude
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:845EC2,100:FF6B6B" />
 </p>
-
-<h3 align="center">“Stop looking for inspiration — become it.” ✨</h3>
