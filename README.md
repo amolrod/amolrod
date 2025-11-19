@@ -1,74 +1,60 @@
-<!-- 💫 Profile README for Ángel Molina -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF6B6B,100:845EC2&text=Ángel%20Molina&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff" />
-</p>
+# Ángel Molina Rodríguez
+### Web Application Developer (DAW)
 
-<div align="center">
-
-### Web Application Developer (DAW) · Madrid, Spain  
-
-<a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/amolrod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+progress+🚀;Frontend,+Backend+%26+UI%2FUX;Always+learning,+always+building" alt="Typing" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amolrod-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/amolrod)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=flat-square)](mailto:angelmolinarodriguez15@gmail.com)
 
 ---
 
 ### About Me
-Hola! 👋  
-I'm **Ángel Molina**, a second-year **Web Application Development (DAW)** student from Madrid, passionate about creating **digital experiences that feel as good as they look**.
+I am a **Web Application Development (DAW)** student based in **Fuenlabrada, Madrid**, passionate about building robust systems and polished user experiences.
 
-Full-stack engineer who ships calm, readable code. I design APIs with .NET/Node, craft UIs with Angular/React, and wire everything with automation. I care about performance, accessibility, and small, reversible changes. Currently exploring better state management, testing strategies, and build tooling.
+Currently finishing my degree (2024-2026), I possess a versatile profile that spans from **Enterprise Microservices** with Java/Spring to **Modern Frontend** with React 19 ecosystem. I am looking for a challenge where I can apply best practices and scalable architecture.
+
+* **Education:** Higher Technician in Web App Development (CampusFP).
+* **Focus:** Microservices Architecture, Full Stack Development & AI-Assisted Engineering.
+* **Languages:** 🇪🇸Spanish (Native), 🇬🇧English (C1 Functional).
 
 ---
 
 ### Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,nodejs,astro,dotnet,firebase,mysql,mongodb,postgres,oracle,mariadb,apache,figma,canva" />
-</p>
+Technologies I use to build, deploy, and ship projects:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Cloud** | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Redis](https://skillicons.dev/icons?i=redis) ![Docker](https://skillicons.dev/icons?i=docker) ![DotNet](https://skillicons.dev/icons?i=dotnet) |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Supabase](https://skillicons.dev/icons?i=supabase) ![HTML/CSS](https://skillicons.dev/icons?i=html,css) |
+| **Data & DevOps** | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Maven](https://skillicons.dev/icons?i=maven) ![Postman](https://skillicons.dev/icons?i=postman) |
+| **Engineering** | ![JavaScript](https://skillicons.dev/icons?i=js) ![ThreeJS](https://skillicons.dev/icons?i=threejs) ![Figma](https://skillicons.dev/icons?i=figma) ![Copilot](https://skillicons.dev/icons?i=github) |
 
 ---
 
-### 🚀 Featured Projects 🚀
+### Featured Projects
 
-#### 🏠 [Balconazo Scalable Marketplace](https://github.com/amolrod/balconazo-scalable-marketplace)
-> **Microservice-based marketplace** with service discovery, authentication, booking, and catalog modules — all orchestrated with Docker & Eureka.  
-🧩 *Tech*: Node.js · Express · PostgreSQL · Docker Compose · REST APIs
+#### [Balconazo](https://github.com/amolrod/balconazo)
+*Enterprise Microservices Architecture (Java 21)*
+A distributed system for space rentals using event-driven architecture and geospatial search.
+* **Architecture:** Spring Cloud (Eureka, Gateway), Circuit Breaker, and CQRS principles.
+* **Core Stack:** Spring Boot 3.5, **Apache Kafka** (Event Streaming), **Redis** (Caching), **PostGIS** (Geo-search).
+* **Security:** Spring Security with OAuth2/JWT (HS512).
 
-#### 💬 [Social Network](https://github.com/amolrod/social-network)
-> A **full-stack social platform** with real-time messaging, likes, and notifications.  
-⚙️ *Tech*: NestJS · Angular 18 · WebSockets · Redis · PostgreSQL
+#### [Tastebook Pro](https://github.com/amolrod/tastebook-pro)
+*Modern Full Stack Web App (React 19)*
+A high-performance recipe management platform focusing on UX and modern React patterns.
+* **Features:** Optimistic UI updates, Real-time filtering, and Row Level Security (RLS).
+* **Tech Stack:** **React 19**, React Router 7, **TypeScript**, **Supabase** (Auth/DB), Tailwind CSS, Framer Motion.
 
-#### 🌐 [Portfolio Website](https://github.com/amolrod/amolrod-portfolio)
-> My personal portfolio built with **Next.js 14 + Tailwind + Framer Motion**, focused on performance, accessibility, and clean UX.  
-
----
-
-###  GitHub Insights
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amolrod&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amolrod&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolrod&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amolrod&bg_color=1a1b27&color=9f9f9f&line=ff6384&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+#### [VestWeb Engine](https://github.com/amolrod/vestweb-engine)
+*AI-Driven Graphics Engineering Experiment*
+A complex WebGL 2.0 rendering engine developed through **advanced AI prompting and architectural guidance**.
+* **Goal:** To test the limits of AI generation for low-level graphics programming (Shaders/Physics).
+* **My Role:** System Architecture, Prompt Engineering, Debugging, and Logic Integration.
+* **Tech Stack:** Vanilla JS, WebGL 2.0, GLSL, Custom Physics.
 
 ---
 
-### 💬 Let’s Connect! 💬
-<p align="center">
-  <a href="mailto:angelmolinarodriguez15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.linkedin.com/in/angel-molina-rodriguez-78714b252/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:845EC2,100:FF6B6B" />
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amolrod&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolrod&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Languages" height="150" />
 </p>
