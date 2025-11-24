@@ -50,11 +50,3 @@ A complex WebGL 2.0 rendering engine developed through **advanced AI prompting a
 * **Goal:** To test the limits of AI generation for low-level graphics programming (Shaders/Physics).
 * **My Role:** System Architecture, Prompt Engineering, Debugging, and Logic Integration.
 * **Tech Stack:** Vanilla JS, WebGL 2.0, GLSL, Custom Physics.
-
----
-
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amolrod&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolrod&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Languages" height="150" />
-</p>
