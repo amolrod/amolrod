@@ -7,12 +7,12 @@
 ---
 
 ### About Me
-I am a **Web Application Development (DAW)** student based in **Fuenlabrada, Madrid**, passionate about building robust systems and polished user experiences.
+I am a **Web Application Development (DAW)** student based in **Fuenlabrada, Madrid**, passionate about coding.
 
 Currently finishing my degree (2024-2026), I possess a versatile profile that spans from **Enterprise Microservices** with Java/Spring to **Modern Frontend** with React 19 ecosystem. I am looking for a challenge where I can apply best practices and scalable architecture.
 
 * **Education:** Higher Technician in Web App Development (CampusFP).
-* **Focus:** Microservices Architecture, Full Stack Development & AI-Assisted Engineering.
+* **Focus:** Microservices Architecture, Full Stack Development.
 * **Languages:** 🇪🇸Spanish (Native), 🇬🇧English (C1 Functional).
 
 ---
