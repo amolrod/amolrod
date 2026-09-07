@@ -1,52 +1,43 @@
 # Ángel Molina Rodríguez
-### Web Application Developer (DAW)
+**Full-Stack Developer · TypeScript, React y Next.js · Madrid, España**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amolrod-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/amolrod)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=flat-square)](mailto:angelmolinarodriguez15@gmail.com)
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW), recién titulado y en búsqueda activa de una oportunidad **junior**. Desarrollo aplicaciones web, APIs y herramientas de automatización.
 
----
+[LinkedIn](https://www.linkedin.com/in/amolrod) · [Email](mailto:angelmolinarodriguez15@gmail.com) · [Web de FinanceApp](https://finance-app-web-mu.vercel.app/) · [Portfolio: código](https://github.com/amolrod/amolrod-portfolio)
 
-### About Me
-I am a **Web Application Development (DAW)** student based in **Fuenlabrada, Madrid**, passionate about coding.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-Currently finishing my degree (2024-2026), I possess a versatile profile that spans from **Enterprise Microservices** with Java/Spring to **Modern Frontend** with React 19 ecosystem. I am looking for a challenge where I can apply best practices and scalable architecture.
+## Proyectos destacados
 
-* **Education:** Higher Technician in Web App Development (CampusFP).
-* **Focus:** Microservices Architecture, Full Stack Development.
-* **Languages:** 🇪🇸Spanish (Native), 🇬🇧English (C1 Functional).
+| Proyecto | Qué puedes revisar | Acceso |
+| --- | --- | --- |
+| **[FinanceApp](https://github.com/amolrod/finance_app)** | Aplicación de finanzas con cuentas, presupuestos e importación de movimientos. Next.js + NestJS + Prisma + PostgreSQL; tests de servicios y decisiones de arquitectura documentadas. | [Web](https://finance-app-web-mu.vercel.app/) · [Capturas](https://github.com/amolrod/finance_app#vista-previa) |
+| **[Tastebook Pro](https://github.com/amolrod/tastebook-pro)** | Recetario con favoritos, planificación semanal y lista de la compra. React + TypeScript + Supabase; separación entre hooks, acceso a datos y componentes. | [Capturas y ejecución local](https://github.com/amolrod/tastebook-pro#vista-previa) |
+| **[CV App](https://github.com/amolrod/cv-app)** | Editor de currículums con cuatro plantillas, persistencia local, comparación de keywords e impresión a PDF. Next.js + React + TypeScript. | [Recorrido de la demo local](https://github.com/amolrod/cv-app#demo-local) |
 
----
+## Stack con el que trabajo
 
-### Tech Stack
-Technologies I use to build, deploy, and ship projects:
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS y TanStack Query.
+- **Backend y datos:** Node.js, NestJS, APIs REST, Prisma, PostgreSQL y Supabase.
+- **Automatización y desarrollo:** Python, Git, Docker y GitHub Actions.
+- **Otros proyectos:** Java, Spring Boot, Angular y WebGL.
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend & Cloud** | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Redis](https://skillicons.dev/icons?i=redis) ![Docker](https://skillicons.dev/icons?i=docker) ![DotNet](https://skillicons.dev/icons?i=dotnet) |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Supabase](https://skillicons.dev/icons?i=supabase) ![HTML/CSS](https://skillicons.dev/icons?i=html,css) |
-| **Data & DevOps** | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Maven](https://skillicons.dev/icons?i=maven) ![Postman](https://skillicons.dev/icons?i=postman) |
-| **Engineering** | ![JavaScript](https://skillicons.dev/icons?i=js) ![ThreeJS](https://skillicons.dev/icons?i=threejs) ![Figma](https://skillicons.dev/icons?i=figma) ![Copilot](https://skillicons.dev/icons?i=github) |
+## Más código
 
----
+- [Balconazo](https://github.com/amolrod/balconazo-scalable-marketplace): marketplace con servicios de autenticación, catálogo, reservas y búsqueda.
+- [DrawPy](https://github.com/amolrod/drawpy): CLI en Python para generar trayectorias y automatizar trazos del ratón.
+- [VestWeb Engine](https://github.com/amolrod/vestweb-engine): experimento de gráficos WebGL con desarrollo asistido por IA. [Demo web](https://vestweb-engine.vercel.app/).
 
-### Featured Projects
+## Contacto y actividad
 
-#### [Balconazo](https://github.com/amolrod/balconazo)
-*Enterprise Microservices Architecture (Java 21)*
-A distributed system for space rentals using event-driven architecture and geospatial search.
-* **Architecture:** Spring Cloud (Eureka, Gateway), Circuit Breaker, and CQRS principles.
-* **Core Stack:** Spring Boot 3.5, **Apache Kafka** (Event Streaming), **Redis** (Caching), **PostGIS** (Geo-search).
-* **Security:** Spring Security with OAuth2/JWT (HS512).
+Busco incorporarme a un equipo donde desarrollar producto, trabajar con code review y seguir creciendo en frontend, backend y automatización.
 
-#### [Tastebook Pro](https://github.com/amolrod/tastebook-pro)
-*Modern Full Stack Web App (React 19)*
-A high-performance recipe management platform focusing on UX and modern React patterns.
-* **Features:** Optimistic UI updates, Real-time filtering, and Row Level Security (RLS).
-* **Tech Stack:** **React 19**, React Router 7, **TypeScript**, **Supabase** (Auth/DB), Tailwind CSS, Framer Motion.
+**Contacto:** [angelmolinarodriguez15@gmail.com](mailto:angelmolinarodriguez15@gmail.com)
 
-#### [VestWeb Engine](https://github.com/amolrod/vestweb-engine)
-*AI-Driven Graphics Engineering Experiment*
-A complex WebGL 2.0 rendering engine developed through **advanced AI prompting and architectural guidance**.
-* **Goal:** To test the limits of AI generation for low-level graphics programming (Shaders/Physics).
-* **My Role:** System Architecture, Prompt Engineering, Debugging, and Logic Integration.
-* **Tech Stack:** Vanilla JS, WebGL 2.0, GLSL, Custom Physics.
+[![Seguidores en GitHub](https://img.shields.io/github/followers/amolrod?label=Seguidores&style=flat)](https://github.com/amolrod?tab=followers)
+[![Estrellas de repositorios públicos](https://img.shields.io/github/stars/amolrod?label=Estrellas&style=flat)](https://github.com/amolrod?tab=repositories)
